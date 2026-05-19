@@ -1,0 +1,13 @@
+{
+  "Challenges": {
+    "starting": true,
+    "connects_to": [ "Boss Challenges", "Boss Fights" ],
+    "requires": ""
+  },
+  "Boss Challenges": {
+    "requires": "|@Upgrades:20%|"
+  },
+  "Boss Fights": {
+    "requires": "|@Upgrades:30%|"
+  }
+}

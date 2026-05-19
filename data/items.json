@@ -1,0 +1,454 @@
+[
+  {
+    "count": 1,
+    "name": "Dex Boss Level",
+    "category": [
+      "Boss Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Prophet Boss Level",
+    "category": [
+      "Boss Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hemlock Boss Level",
+    "category": [
+      "Boss Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Arora Boss Level",
+    "category": [
+      "Boss Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Heavy Kick Holdout",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kitsune No Uta",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sprint And Slide Real Smooth",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mensch Maschine",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "It's A Takedown",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Neko Neko Lets Go",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Windmill For The win",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hyper Sunrise",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Wish",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Maniacal Maniac",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Devo Station Destruction",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Maniac",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Down With Authority",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Burn It All Down",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Authority",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stardoll Showdown",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rhythm Divine",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "System Shock",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Echolokators",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bouncer Beatdown",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mission",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Mosh Pit",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Crazy Combo Chaos",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Subway Asylum",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gravitational Pull",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rorivenge",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chaos Control",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Faith",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Double Trouble",
+    "category": [
+      "Boss Challenge"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Arora Protocol",
+    "category": [
+      "Boss Challenge"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Machine",
+    "category": [
+      "Boss Challenge"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Two Way Prophet",
+    "category": [
+      "Boss Challenge"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Match Made In Heaven",
+    "category": [
+      "Boss Challenge"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Four Reunion Tour",
+    "category": [
+      "Boss Challenge"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Maniac (Punk)",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Holding Out For A Hero",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Send Me An Angel",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Final Countdown",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Boom",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Queencard",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Just Dance",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Magazine",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Remedy",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "CHOMP",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Desert Gamer",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bad For Myself",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big & Rich",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flawless",
+    "category": [
+      "Challenge Level"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Legends",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 14,
+    "name": "'Beat Kune Do' Upgrade",
+    "category": [ "Upgrades" ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "'Reckless Rage' Upgrade",
+    "category": [ "Upgrades" ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "'Shooting Star' Upgrade",
+    "category": [ "Upgrades" ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "'Perfect Storm' Upgrade",
+    "category": [ "Upgrades" ],
+    "progression": true
+  },
+  {
+    "count": 4,
+    "name": "'Killa Flow' Upgrade",
+    "category": [ "Upgrades" ],
+    "progression": true
+  }
+]

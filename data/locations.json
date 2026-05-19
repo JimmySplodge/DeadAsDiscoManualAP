@@ -1,0 +1,1439 @@
+[
+  {
+    "name": "Dex Boss Level Reward 1",
+    "region": "Boss Fights",
+    "victory": false,
+    "category": [
+      "Dex Boss Level Rewards"
+    ],
+    "requires": "|Dex Boss Level|"
+  },
+  {
+    "name": "Dex Boss Level Reward 2",
+    "region": "Boss Fights",
+    "victory": false,
+    "category": [
+      "Dex Boss Level Rewards"
+    ],
+    "requires": "|Dex Boss Level|"
+  },
+  {
+    "name": "Dex Boss Level Reward 3",
+    "region": "Boss Fights",
+    "victory": false,
+    "category": [
+      "Dex Boss Level Rewards"
+    ],
+    "requires": "|Dex Boss Level|"
+  },
+  {
+    "name": "Prophet Boss Level Reward 1",
+    "region": "Boss Fights",
+    "victory": false,
+    "category": [
+      "Prophet Boss Level Rewards"
+    ],
+    "requires": "|Prophet Boss Level|"
+  },
+  {
+    "name": "Prophet Boss Level Reward 2",
+    "region": "Boss Fights",
+    "victory": false,
+    "category": [
+      "Prophet Boss Level Rewards"
+    ],
+    "requires": "|Prophet Boss Level|"
+  },
+  {
+    "name": "Prophet Boss Level Reward 3",
+    "region": "Boss Fights",
+    "victory": false,
+    "category": [
+      "Prophet Boss Level Rewards"
+    ],
+    "requires": "|Prophet Boss Level|"
+  },
+  {
+    "name": "Hemlock Boss Level Reward 1",
+    "region": "Boss Fights",
+    "victory": false,
+    "category": [
+      "Hemlock Boss Level Rewards"
+    ],
+    "requires": "|Hemlock Boss Level|"
+  },
+  {
+    "name": "Hemlock Boss Level Reward 2",
+    "region": "Boss Fights",
+    "victory": false,
+    "category": [
+      "Hemlock Boss Level Rewards"
+    ],
+    "requires": "|Hemlock Boss Level|"
+  },
+  {
+    "name": "Hemlock Boss Level Reward 3",
+    "region": "Boss Fights",
+    "victory": false,
+    "category": [
+      "Hemlock Boss Level Rewards"
+    ],
+    "requires": "|Hemlock Boss Level|"
+  },
+  {
+    "name": "Arora Boss Level Reward 1",
+    "region": "Boss Fights",
+    "victory": false,
+    "category": [
+      "Arora Boss Level Rewards"
+    ],
+    "requires": "|Arora Boss Level|"
+  },
+  {
+    "name": "Arora Boss Level Reward 2",
+    "region": "Boss Fights",
+    "victory": false,
+    "category": [
+      "Arora Boss Level Rewards"
+    ],
+    "requires": "|Arora Boss Level|"
+  },
+  {
+    "name": "Arora Boss Level Reward 3",
+    "region": "Boss Fights",
+    "victory": false,
+    "category": [
+      "Arora Boss Level Rewards"
+    ],
+    "requires": "|Arora Boss Level|"
+  },
+  {
+    "name": "Heavy Kick Holdout Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Heavy Kick Holdout Rewards"
+    ],
+    "requires": "|Heavy Kick Holdout|"
+  },
+  {
+    "name": "Heavy Kick Holdout Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Heavy Kick Holdout Rewards"
+    ],
+    "requires": "|Heavy Kick Holdout|"
+  },
+  {
+    "name": "Heavy Kick Holdout Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Heavy Kick Holdout Rewards"
+    ],
+    "requires": "|Heavy Kick Holdout|"
+  },
+  {
+    "name": "Kitsune No Uta Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Kitsune No Uta Rewards"
+    ],
+    "requires": "|Kitsune No Uta|"
+  },
+  {
+    "name": "Kitsune No Uta Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Kitsune No Uta Rewards"
+    ],
+    "requires": "|Kitsune No Uta|"
+  },
+  {
+    "name": "Kitsune No Uta Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Kitsune No Uta Rewards"
+    ],
+    "requires": "|Kitsune No Uta|"
+  },
+  {
+    "name": "Sprint And Slide Real Smooth Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Sprint And Slide Real Smooth Rewards"
+    ],
+    "requires": "|Sprint And Slide Real Smooth|"
+  },
+  {
+    "name": "Sprint And Slide Real Smooth Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Sprint And Slide Real Smooth Rewards"
+    ],
+    "requires": "|Sprint And Slide Real Smooth|"
+  },
+  {
+    "name": "Sprint And Slide Real Smooth Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Sprint And Slide Real Smooth Rewards"
+    ],
+    "requires": "|Sprint And Slide Real Smooth|"
+  },
+  {
+    "name": "Mensch Maschine Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Mensch Maschine Rewards"
+    ],
+    "requires": "|Mensch Maschine|"
+  },
+  {
+    "name": "Mensch Maschine Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Mensch Maschine Rewards"
+    ],
+    "requires": "|Mensch Maschine|"
+  },
+  {
+    "name": "Mensch Maschine Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Mensch Maschine Rewards"
+    ],
+    "requires": "|Mensch Maschine|"
+  },
+  {
+    "name": "It's A Takedown Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "It's A Takedown Rewards"
+    ],
+    "requires": "|It's A Takedown|"
+  },
+  {
+    "name": "It's A Takedown Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "It's A Takedown Rewards"
+    ],
+    "requires": "|It's A Takedown|"
+  },
+  {
+    "name": "It's A Takedown Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "It's A Takedown Rewards"
+    ],
+    "requires": "|It's A Takedown|"
+  },
+  {
+    "name": "Neko Neko Lets Go Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Neko Neko Lets Go Rewards"
+    ],
+    "requires": "|Neko Neko Lets Go|"
+  },
+  {
+    "name": "Neko Neko Lets Go Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Neko Neko Lets Go Rewards"
+    ],
+    "requires": "|Neko Neko Lets Go|"
+  },
+  {
+    "name": "Neko Neko Lets Go Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Neko Neko Lets Go Rewards"
+    ],
+    "requires": "|Neko Neko Lets Go|"
+  },
+  {
+    "name": "Windmill For The win Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Windmill For The win Rewards"
+    ],
+    "requires": "|Windmill For The win|"
+  },
+  {
+    "name": "Windmill For The win Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Windmill For The win Rewards"
+    ],
+    "requires": "|Windmill For The win|"
+  },
+  {
+    "name": "Windmill For The win Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Windmill For The win Rewards"
+    ],
+    "requires": "|Windmill For The win|"
+  },
+  {
+    "name": "Hyper Sunrise Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Hyper Sunrise Rewards"
+    ],
+    "requires": "|Hyper Sunrise|"
+  },
+  {
+    "name": "Hyper Sunrise Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Hyper Sunrise Rewards"
+    ],
+    "requires": "|Hyper Sunrise|"
+  },
+  {
+    "name": "Hyper Sunrise Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Hyper Sunrise Rewards"
+    ],
+    "requires": "|Hyper Sunrise|"
+  },
+  {
+    "name": "Wish Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Wish Rewards"
+    ],
+    "requires": "|Wish|"
+  },
+  {
+    "name": "Wish Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Wish Rewards"
+    ],
+    "requires": "|Wish|"
+  },
+  {
+    "name": "Wish Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Wish Rewards"
+    ],
+    "requires": "|Wish|"
+  },
+  {
+    "name": "Maniacal Maniac Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Maniacal Maniac Rewards"
+    ],
+    "requires": "|Maniacal Maniac|"
+  },
+  {
+    "name": "Maniacal Maniac Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Maniacal Maniac Rewards"
+    ],
+    "requires": "|Maniacal Maniac|"
+  },
+  {
+    "name": "Maniacal Maniac Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Maniacal Maniac Rewards"
+    ],
+    "requires": "|Maniacal Maniac|"
+  },
+  {
+    "name": "Devo Station Destruction Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Devo Station Destruction Rewards"
+    ],
+    "requires": "|Devo Station Destruction|"
+  },
+  {
+    "name": "Devo Station Destruction Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Devo Station Destruction Rewards"
+    ],
+    "requires": "|Devo Station Destruction|"
+  },
+  {
+    "name": "Devo Station Destruction Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Devo Station Destruction Rewards"
+    ],
+    "requires": "|Devo Station Destruction|"
+  },
+  {
+    "name": "Maniac Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Maniac Rewards"
+    ],
+    "requires": "|Maniac|"
+  },
+  {
+    "name": "Maniac Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Maniac Rewards"
+    ],
+    "requires": "|Maniac|"
+  },
+  {
+    "name": "Maniac Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Maniac Rewards"
+    ],
+    "requires": "|Maniac|"
+  },
+  {
+    "name": "Down With Authority Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Down With Authority Rewards"
+    ],
+    "requires": "|Down With Authority|"
+  },
+  {
+    "name": "Down With Authority Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Down With Authority Rewards"
+    ],
+    "requires": "|Down With Authority|"
+  },
+  {
+    "name": "Down With Authority Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Down With Authority Rewards"
+    ],
+    "requires": "|Down With Authority|"
+  },
+  {
+    "name": "Burn It All Down Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Burn It All Down Rewards"
+    ],
+    "requires": "|Burn It All Down|"
+  },
+  {
+    "name": "Burn It All Down Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Burn It All Down Rewards"
+    ],
+    "requires": "|Burn It All Down|"
+  },
+  {
+    "name": "Burn It All Down Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Burn It All Down Rewards"
+    ],
+    "requires": "|Burn It All Down|"
+  },
+  {
+    "name": "Authority Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Authority Rewards"
+    ],
+    "requires": "|Authority|"
+  },
+  {
+    "name": "Authority Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Authority Rewards"
+    ],
+    "requires": "|Authority|"
+  },
+  {
+    "name": "Authority Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Authority Rewards"
+    ],
+    "requires": "|Authority|"
+  },
+  {
+    "name": "Stardoll Showdown Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Stardoll Showdown Rewards"
+    ],
+    "requires": "|Stardoll Showdown|"
+  },
+  {
+    "name": "Stardoll Showdown Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Stardoll Showdown Rewards"
+    ],
+    "requires": "|Stardoll Showdown|"
+  },
+  {
+    "name": "Stardoll Showdown Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Stardoll Showdown Rewards"
+    ],
+    "requires": "|Stardoll Showdown|"
+  },
+  {
+    "name": "Rhythm Divine Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Rhythm Divine Rewards"
+    ],
+    "requires": "|Rhythm Divine|"
+  },
+  {
+    "name": "Rhythm Divine Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Rhythm Divine Rewards"
+    ],
+    "requires": "|Rhythm Divine|"
+  },
+  {
+    "name": "Rhythm Divine Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Rhythm Divine Rewards"
+    ],
+    "requires": "|Rhythm Divine|"
+  },
+  {
+    "name": "System Shock Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "System Shock Rewards"
+    ],
+    "requires": "|System Shock|"
+  },
+  {
+    "name": "System Shock Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "System Shock Rewards"
+    ],
+    "requires": "|System Shock|"
+  },
+  {
+    "name": "System Shock Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "System Shock Rewards"
+    ],
+    "requires": "|System Shock|"
+  },
+  {
+    "name": "Echolokators Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Echolokators Rewards"
+    ],
+    "requires": "|Echolokators|"
+  },
+  {
+    "name": "Echolokators Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Echolokators Rewards"
+    ],
+    "requires": "|Echolokators|"
+  },
+  {
+    "name": "Echolokators Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Echolokators Rewards"
+    ],
+    "requires": "|Echolokators|"
+  },
+  {
+    "name": "Bouncer Beatdown Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Bouncer Beatdown Rewards"
+    ],
+    "requires": "|Bouncer Beatdown|"
+  },
+  {
+    "name": "Bouncer Beatdown Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Bouncer Beatdown Rewards"
+    ],
+    "requires": "|Bouncer Beatdown|"
+  },
+  {
+    "name": "Bouncer Beatdown Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Bouncer Beatdown Rewards"
+    ],
+    "requires": "|Bouncer Beatdown|"
+  },
+  {
+    "name": "Mission Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Mission Rewards"
+    ],
+    "requires": "|Mission|"
+  },
+  {
+    "name": "Mission Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Mission Rewards"
+    ],
+    "requires": "|Mission|"
+  },
+  {
+    "name": "Mission Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Mission Rewards"
+    ],
+    "requires": "|Mission|"
+  },
+  {
+    "name": "The Mosh Pit Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "The Mosh Pit Rewards"
+    ],
+    "requires": "|The Mosh Pit|"
+  },
+  {
+    "name": "The Mosh Pit Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "The Mosh Pit Rewards"
+    ],
+    "requires": "|The Mosh Pit|"
+  },
+  {
+    "name": "The Mosh Pit Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "The Mosh Pit Rewards"
+    ],
+    "requires": "|The Mosh Pit|"
+  },
+  {
+    "name": "Crazy Combo Chaos Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Crazy Combo Chaos Rewards"
+    ],
+    "requires": "|Crazy Combo Chaos|"
+  },
+  {
+    "name": "Crazy Combo Chaos Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Crazy Combo Chaos Rewards"
+    ],
+    "requires": "|Crazy Combo Chaos|"
+  },
+  {
+    "name": "Crazy Combo Chaos Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Crazy Combo Chaos Rewards"
+    ],
+    "requires": "|Crazy Combo Chaos|"
+  },
+  {
+    "name": "Subway Asylum Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Subway Asylum Rewards"
+    ],
+    "requires": "|Subway Asylum|"
+  },
+  {
+    "name": "Subway Asylum Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Subway Asylum Rewards"
+    ],
+    "requires": "|Subway Asylum|"
+  },
+  {
+    "name": "Subway Asylum Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Subway Asylum Rewards"
+    ],
+    "requires": "|Subway Asylum|"
+  },
+  {
+    "name": "Gravitational Pull Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Gravitational Pull Rewards"
+    ],
+    "requires": "|Gravitational Pull|"
+  },
+  {
+    "name": "Gravitational Pull Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Gravitational Pull Rewards"
+    ],
+    "requires": "|Gravitational Pull|"
+  },
+  {
+    "name": "Gravitational Pull Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Gravitational Pull Rewards"
+    ],
+    "requires": "|Gravitational Pull|"
+  },
+  {
+    "name": "Rorivenge Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Rorivenge Rewards"
+    ],
+    "requires": "|Rorivenge|"
+  },
+  {
+    "name": "Rorivenge Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Rorivenge Rewards"
+    ],
+    "requires": "|Rorivenge|"
+  },
+  {
+    "name": "Rorivenge Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Rorivenge Rewards"
+    ],
+    "requires": "|Rorivenge|"
+  },
+  {
+    "name": "Chaos Control Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Chaos Control Rewards"
+    ],
+    "requires": "|Chaos Control|"
+  },
+  {
+    "name": "Chaos Control Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Chaos Control Rewards"
+    ],
+    "requires": "|Chaos Control|"
+  },
+  {
+    "name": "Chaos Control Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Chaos Control Rewards"
+    ],
+    "requires": "|Chaos Control|"
+  },
+  {
+    "name": "Faith Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Faith Rewards"
+    ],
+    "requires": "|Faith|"
+  },
+  {
+    "name": "Faith Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Faith Rewards"
+    ],
+    "requires": "|Faith|"
+  },
+  {
+    "name": "Faith Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Faith Rewards"
+    ],
+    "requires": "|Faith|"
+  },
+  {
+    "name": "Double Trouble Reward 1",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "Double Trouble Rewards"
+    ],
+    "requires": "|Double Trouble|"
+  },
+  {
+    "name": "Double Trouble Reward 2",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "Double Trouble Rewards"
+    ],
+    "requires": "|Double Trouble|"
+  },
+  {
+    "name": "Double Trouble Reward 3",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "Double Trouble Rewards"
+    ],
+    "requires": "|Double Trouble|"
+  },
+  {
+    "name": "Arora Protocol Reward 1",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "Arora Protocol Rewards"
+    ],
+    "requires": "|Arora Protocol|"
+  },
+  {
+    "name": "Arora Protocol Reward 2",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "Arora Protocol Rewards"
+    ],
+    "requires": "|Arora Protocol|"
+  },
+  {
+    "name": "Arora Protocol Reward 3",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "Arora Protocol Rewards"
+    ],
+    "requires": "|Arora Protocol|"
+  },
+  {
+    "name": "The Machine Reward 1",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "The Machine Rewards"
+    ],
+    "requires": "|The Machine|"
+  },
+  {
+    "name": "The Machine Reward 2",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "The Machine Rewards"
+    ],
+    "requires": "|The Machine|"
+  },
+  {
+    "name": "The Machine Reward 3",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "The Machine Rewards"
+    ],
+    "requires": "|The Machine|"
+  },
+  {
+    "name": "Two Way Prophet Reward 1",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "Two Way Prophet Rewards"
+    ],
+    "requires": "|Two Way Prophet|"
+  },
+  {
+    "name": "Two Way Prophet Reward 2",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "Two Way Prophet Rewards"
+    ],
+    "requires": "|Two Way Prophet|"
+  },
+  {
+    "name": "Two Way Prophet Reward 3",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "Two Way Prophet Rewards"
+    ],
+    "requires": "|Two Way Prophet|"
+  },
+  {
+    "name": "Match Made In Heaven Reward 1",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "Match Made In Heaven Rewards"
+    ],
+    "requires": "|Match Made In Heaven|"
+  },
+  {
+    "name": "Match Made In Heaven Reward 2",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "Match Made In Heaven Rewards"
+    ],
+    "requires": "|Match Made In Heaven|"
+  },
+  {
+    "name": "Match Made In Heaven Reward 3",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "Match Made In Heaven Rewards"
+    ],
+    "requires": "|Match Made In Heaven|"
+  },
+  {
+    "name": "The Four Reunion Tour Reward 1",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "The Four Reunion Tour Rewards"
+    ],
+    "requires": "|The Four Reunion Tour|"
+  },
+  {
+    "name": "The Four Reunion Tour Reward 2",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "The Four Reunion Tour Rewards"
+    ],
+    "requires": "|The Four Reunion Tour|"
+  },
+  {
+    "name": "The Four Reunion Tour Reward 3",
+    "region": "Boss Challenges",
+    "victory": false,
+    "category": [
+      "The Four Reunion Tour Rewards"
+    ],
+    "requires": "|The Four Reunion Tour|"
+  },
+  {
+    "name": "Maniac (Punk) Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Maniac (Punk) Rewards"
+    ],
+    "requires": "|Maniac (Punk)|"
+  },
+  {
+    "name": "Maniac (Punk) Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Maniac (Punk) Rewards"
+    ],
+    "requires": "|Maniac (Punk)|"
+  },
+  {
+    "name": "Maniac (Punk) Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Maniac (Punk) Rewards"
+    ],
+    "requires": "|Maniac (Punk)|"
+  },
+  {
+    "name": "Holding Out For A Hero Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Holding Out For A Hero Rewards"
+    ],
+    "requires": "|Holding Out For A Hero|"
+  },
+  {
+    "name": "Holding Out For A Hero Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Holding Out For A Hero Rewards"
+    ],
+    "requires": "|Holding Out For A Hero|"
+  },
+  {
+    "name": "Holding Out For A Hero Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Holding Out For A Hero Rewards"
+    ],
+    "requires": "|Holding Out For A Hero|"
+  },
+  {
+    "name": "Send Me An Angel Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Send Me An Angel Rewards"
+    ],
+    "requires": "|Send Me An Angel|"
+  },
+  {
+    "name": "Send Me An Angel Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Send Me An Angel Rewards"
+    ],
+    "requires": "|Send Me An Angel|"
+  },
+  {
+    "name": "Send Me An Angel Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Send Me An Angel Rewards"
+    ],
+    "requires": "|Send Me An Angel|"
+  },
+  {
+    "name": "Final Countdown Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Final Countdown Rewards"
+    ],
+    "requires": "|Final Countdown|"
+  },
+  {
+    "name": "Final Countdown Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Final Countdown Rewards"
+    ],
+    "requires": "|Final Countdown|"
+  },
+  {
+    "name": "Final Countdown Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Final Countdown Rewards"
+    ],
+    "requires": "|Final Countdown|"
+  },
+  {
+    "name": "Boom Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Boom Rewards"
+    ],
+    "requires": "|Boom|"
+  },
+  {
+    "name": "Boom Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Boom Rewards"
+    ],
+    "requires": "|Boom|"
+  },
+  {
+    "name": "Boom Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Boom Rewards"
+    ],
+    "requires": "|Boom|"
+  },
+  {
+    "name": "Queencard Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Queencard Rewards"
+    ],
+    "requires": "|Queencard|"
+  },
+  {
+    "name": "Queencard Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Queencard Rewards"
+    ],
+    "requires": "|Queencard|"
+  },
+  {
+    "name": "Queencard Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Queencard Rewards"
+    ],
+    "requires": "|Queencard|"
+  },
+  {
+    "name": "Just Dance Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Just Dance Rewards"
+    ],
+    "requires": "|Just Dance|"
+  },
+  {
+    "name": "Just Dance Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Just Dance Rewards"
+    ],
+    "requires": "|Just Dance|"
+  },
+  {
+    "name": "Just Dance Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Just Dance Rewards"
+    ],
+    "requires": "|Just Dance|"
+  },
+  {
+    "name": "Magazine Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Magazine Rewards"
+    ],
+    "requires": "|Magazine|"
+  },
+  {
+    "name": "Magazine Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Magazine Rewards"
+    ],
+    "requires": "|Magazine|"
+  },
+  {
+    "name": "Magazine Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Magazine Rewards"
+    ],
+    "requires": "|Magazine|"
+  },
+  {
+    "name": "Remedy Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Remedy Rewards"
+    ],
+    "requires": "|Remedy|"
+  },
+  {
+    "name": "Remedy Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Remedy Rewards"
+    ],
+    "requires": "|Remedy|"
+  },
+  {
+    "name": "Remedy Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Remedy Rewards"
+    ],
+    "requires": "|Remedy|"
+  },
+  {
+    "name": "CHOMP Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "CHOMP Rewards"
+    ],
+    "requires": "|CHOMP|"
+  },
+  {
+    "name": "CHOMP Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "CHOMP Rewards"
+    ],
+    "requires": "|CHOMP|"
+  },
+  {
+    "name": "CHOMP Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "CHOMP Rewards"
+    ],
+    "requires": "|CHOMP|"
+  },
+  {
+    "name": "Desert Gamer Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Desert Gamer Rewards"
+    ],
+    "requires": "|Desert Gamer|"
+  },
+  {
+    "name": "Desert Gamer Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Desert Gamer Rewards"
+    ],
+    "requires": "|Desert Gamer|"
+  },
+  {
+    "name": "Desert Gamer Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Desert Gamer Rewards"
+    ],
+    "requires": "|Desert Gamer|"
+  },
+  {
+    "name": "Bad For Myself Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Bad For Myself Rewards"
+    ],
+    "requires": "|Bad For Myself|"
+  },
+  {
+    "name": "Bad For Myself Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Bad For Myself Rewards"
+    ],
+    "requires": "|Bad For Myself|"
+  },
+  {
+    "name": "Bad For Myself Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Bad For Myself Rewards"
+    ],
+    "requires": "|Bad For Myself|"
+  },
+  {
+    "name": "Big & Rich Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Big & Rich Rewards"
+    ],
+    "requires": "|Big & Rich|"
+  },
+  {
+    "name": "Big & Rich Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Big & Rich Rewards"
+    ],
+    "requires": "|Big & Rich|"
+  },
+  {
+    "name": "Big & Rich Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Big & Rich Rewards"
+    ],
+    "requires": "|Big & Rich|"
+  },
+  {
+    "name": "Flawless Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Flawless Rewards"
+    ],
+    "requires": "|Flawless|"
+  },
+  {
+    "name": "Flawless Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Flawless Rewards"
+    ],
+    "requires": "|Flawless|"
+  },
+  {
+    "name": "Flawless Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Flawless Rewards"
+    ],
+    "requires": "|Flawless|"
+  },
+  {
+    "name": "Legends Reward 1",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Legends Rewards"
+    ],
+    "requires": "|Legends|"
+  },
+  {
+    "name": "Legends Reward 2",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Legends Rewards"
+    ],
+    "requires": "|Legends|"
+  },
+  {
+    "name": "Legends Reward 3",
+    "region": "Challenges",
+    "victory": false,
+    "category": [
+      "Legends Rewards"
+    ],
+    "requires": "|Legends|"
+  },
+  {
+    "name": "All Bosses Defeated",
+    "region": "Challenges",
+    "victory": true,
+    "requires": "|Dex Boss Level| and |Prophet Boss Level| and |Hemlock Boss Level| and |Arora Boss Level|"
+  }
+]

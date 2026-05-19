@@ -1,0 +1,12 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "DeadasDisco",
+  "creator": "JimmySplodge",
+  "filler_item_name": "DISCO_FILLER",
+  "starting_items": [
+    {
+      "item_categories": [ "Challenge Level" ],
+      "random": 1
+    }
+  ]
+}
