@@ -418,7 +418,9 @@
   {
     "count": 1,
     "name": "Legends",
-    "category": [],
+    "category": [
+      "Challenge Level"
+    ],
     "progression": true
   },
   {
